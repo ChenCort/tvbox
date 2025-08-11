@@ -13,6 +13,8 @@
     {"key": "热播影视","name": "热播｜APP","type": 3,"api": "csp_AppRJ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {"url": "http://v.rbotv.cn"},"jar": "./xiaosa/spider.jar;md5;44855977bd721a095571affb4426eef0"},
     {"key": "天天影视","name": "天天｜APP","type": 3,"api": "csp_AppRJ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {"url": "http://tt.ysdqjs.cn"},"jar": "./xiaosa/spider.jar;md5;44855977bd721a095571affb4426eef0"},
     {"key": "浪酷影视","name": "浪酷｜APP","type": 3,"api": "csp_AppRJ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {"url": "http://v.lkuys.cn"},"jar": "./xiaosa/spider.jar;md5;44855977bd721a095571affb4426eef0"},
+    {"key": "Missav","name": "Missav","type": 3,"api": "./js/Miss.py","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": {"url": "https://missav.ai"},"jar": "./xiaosa/spider.jar;md5;44855977bd721a095571affb4426eef0"},
+    
     {"key": "星河","name": "星河｜APP","type": 3,"quickSearch": 1,"api": "csp_AppSy","ext": {"url": "http://192.140.161.171:2563","key1": "aassddwwxxllsx1x","key2": "aassddwwxxllsx1x","key3": "aassddwwxxllsx1x"},"jar": "./xiaosa/spider.jar;md5;44855977bd721a095571affb4426eef0"},
     {"key": "追忆","name": "追忆｜APP","type": 3,"quickSearch": 1,"api": "csp_AppSy","ext": {"url": "http://110.42.7.130:1866","key1": "aassddwwxxllsx1x","key2": "1e765e9b09b4dbba","key3": "1e765e9b09b4dbba"},"jar": "./xiaosa/spider.jar;md5;44855977bd721a095571affb4426eef0"},
     {"key": "乐达","name": "乐达｜APP","type": 3,"quickSearch": 1,"api": "csp_AppGet","ext": {"url": "https://ledayy.com","site": "","dataKey": "hjjp68c2okw12345","dataIv": "hjjp68c2okw12345","deviceId": "","version": ""},"jar": "./xiaosa/spider.jar;md5;44855977bd721a095571affb4426eef0"},
