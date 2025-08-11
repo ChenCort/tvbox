@@ -18,7 +18,7 @@
     "searchable": 0,
     "quickSearch": 0,
     "filterable": 0,
-    "api": "./js/Miss.py",
+    "api": "https://py.doube.eu.org/spider?site=Miss",
     "ext": {
       "site": "https://missav.ai",
       "cfgo": "./json/cf-proxy-linux-arm64",
@@ -118,6 +118,7 @@
 {"name":"非凡廣告","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]}
 ]
 }
+
 
 
 
