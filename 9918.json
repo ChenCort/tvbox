@@ -21,7 +21,7 @@
     "api": "./json/Miss.py",
     "ext": {
       "site": "https://missav.ai",
-      "cfgo": "./cf-proxy-linux-arm64",
+      "cfgo": "./json/cf-proxy-linux-arm64",
       "plp": "",
       "proxy": {}
     }
@@ -118,4 +118,5 @@
 {"name":"非凡廣告","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]}
 ]
 }
+
 
